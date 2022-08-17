@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliAlex0
+- 👋 Hi, I’m @0xAli0x
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Programming problems
