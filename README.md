@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xAli0x
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Front End Development with meta
 - 💞️ I’m looking to collaborate on Programming problems
 - 📫 How to reach me ...
 
